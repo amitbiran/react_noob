@@ -1,6 +1,6 @@
 import "./styles.css";
 
-function Header(props) {
+function Header() {
   return (
     <header>
       <h1>Eve's Kitchen</h1>

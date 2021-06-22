@@ -5,4 +5,4 @@ import App from "./App";
 
 const rootElement = document.getElementById("root");
 
-ReactDOM.render(<App login="amitbiran" />, rootElement);
+ReactDOM.render(<App />, rootElement);
